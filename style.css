@@ -1,0 +1,72 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    text-align: center;   
+}
+td {
+    height: 86px;
+    width: 67px;
+}
+#second_table{
+    margin-left: 80px;
+    margin-top: 20px;
+}
+.abbreviation{
+    padding-top: 10px;
+    font-size: larger;
+    font-weight: bolder;
+}
+.element_name{
+    padding-top: 10px;
+    font-size: small;
+}
+
+/* color classes  */
+
+.green{
+    background-color: #99E599;
+    color: green;
+}
+.yellow{
+    background-color: #FFE57F;
+    color: rgba(246, 167, 58, 0.798);
+}
+.lite_brown{
+    background-color: #FFCCB2;
+    color: brown;
+}
+.blue{
+    background-color: #B2E5FF;
+    color: rgb(7, 136, 249);
+}
+.purple{
+    background-color: #9E87BD;
+    color: rgb(75, 26, 75);
+}
+.gray{
+    background-color:#CCCCCC;
+    color: rgb(94, 92, 92);
+}
+.pink{
+    background-color: #FFCCE5;
+    color: rgb(247, 104, 128);
+}
+.dark_purple{
+    background-color:#B2CCFF;
+    color: rgb(32, 29, 196);
+}
+.aqua{
+    background-color:#7FE5E5;
+    color: rgb(7, 87, 87)5, 65, 65;
+}
+.orange{
+    background-color: #EA8350;
+    color: white;
+}
+.light_aqua{
+    background-color: #7FE5E5;
+    color: #051a0c;
+}
